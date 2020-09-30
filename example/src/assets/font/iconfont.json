@@ -1,0 +1,86 @@
+{
+    "id": "2098232",
+    "name": "umi-admin",
+    "font_family": "iconfont",
+    "css_prefix_text": "icon",
+    "description": "",
+    "glyphs": [
+        {
+            "icon_id": "11474272",
+            "name": "editor",
+            "font_class": "editor",
+            "unicode": "e6f6",
+            "unicode_decimal": 59126
+        },
+        {
+            "icon_id": "11474371",
+            "name": "export services",
+            "font_class": "Exportservices",
+            "unicode": "e702",
+            "unicode_decimal": 59138
+        },
+        {
+            "icon_id": "11487973",
+            "name": "add",
+            "font_class": "add",
+            "unicode": "e742",
+            "unicode_decimal": 59202
+        },
+        {
+            "icon_id": "11487984",
+            "name": "ashbin",
+            "font_class": "ashbin",
+            "unicode": "e744",
+            "unicode_decimal": 59204
+        },
+        {
+            "icon_id": "11487988",
+            "name": "browse",
+            "font_class": "browse",
+            "unicode": "e745",
+            "unicode_decimal": 59205
+        },
+        {
+            "icon_id": "11488088",
+            "name": "Not visible",
+            "font_class": "Notvisible",
+            "unicode": "e75a",
+            "unicode_decimal": 59226
+        },
+        {
+            "icon_id": "11488100",
+            "name": "product",
+            "font_class": "product",
+            "unicode": "e75d",
+            "unicode_decimal": 59229
+        },
+        {
+            "icon_id": "11488156",
+            "name": "upload",
+            "font_class": "upload",
+            "unicode": "e76b",
+            "unicode_decimal": 59243
+        },
+        {
+            "icon_id": "11488209",
+            "name": "vip",
+            "font_class": "vip",
+            "unicode": "e773",
+            "unicode_decimal": 59251
+        },
+        {
+            "icon_id": "12011695",
+            "name": "favorites",
+            "font_class": "favorites",
+            "unicode": "e7b3",
+            "unicode_decimal": 59315
+        },
+        {
+            "icon_id": "12012167",
+            "name": "trading data",
+            "font_class": "tradingdata",
+            "unicode": "e7b5",
+            "unicode_decimal": 59317
+        }
+    ]
+}

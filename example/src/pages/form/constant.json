@@ -1,0 +1,146 @@
+{
+    "list": [
+        {
+            "itemKey": "tag1",
+            "type": "tag",
+            "title": "基本信息",
+            "icon": "",
+            "span": 24,
+            "offset": 0
+        },
+        {
+            "label": "姓名",
+            "itemKey": "name",
+            "required": false,
+            "type": "input",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "性别",
+            "itemKey": "sex",
+            "required": false,
+            "type": "select",
+            "options": [
+                {
+                    "name": "男",
+                    "id": "1"
+                },
+                {
+                    "name": "女",
+                    "id": "2"
+                },
+                {
+                    "name": "未知",
+                    "id": "3"
+                }
+            ],
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "出生时间",
+            "itemKey": "borth",
+            "required": true,
+            "type": "datetime",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "年龄",
+            "itemKey": "age",
+            "required": false,
+            "type": "inputNumber",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "学历",
+            "itemKey": "education",
+            "required": false,
+            "type": "radio",
+            "options": [
+                {
+                    "name": "专科",
+                    "id": "1"
+                },
+                {
+                    "name": "本科",
+                    "id": "2"
+                },
+                {
+                    "name": "硕士",
+                    "id": "3"
+                },
+                {
+                    "name": "博士",
+                    "id": "4"
+                }
+            ],
+            "span": 8,
+            "offset": 0
+        },
+        {
+            "itemKey": "tag2",
+            "type": "tag",
+            "title": "教育信息",
+            "icon": "",
+            "span": 24,
+            "offset": 0
+        },
+        {
+            "label": "教育经历",
+            "itemKey": "experience",
+            "required": true,
+            "type": "range",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "爱好",
+            "itemKey": "hobby",
+            "required": false,
+            "type": "checkbox",
+            "options": [
+                {
+                    "name": "学习",
+                    "id": "1"
+                },
+                {
+                    "name": "健身",
+                    "id": "2"
+                },
+                {
+                    "name": "撩妹",
+                    "id": "3"
+                }
+            ],
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "爱好",
+            "itemKey": "mark",
+            "required": false,
+            "type": "textarea",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "更新时间",
+            "itemKey": "updeteTime",
+            "required": false,
+            "type": "text",
+            "span": 6,
+            "offset": 0
+        },
+        {
+            "label": "操作",
+            "itemKey": "submit",
+            "required": false,
+            "type": "button",
+            "span": 6,
+            "offset": 0
+        }
+    ]
+}
