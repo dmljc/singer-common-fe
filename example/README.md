@@ -1,4 +1,4 @@
-# umi project
+# components example
 
 ## Getting Started
 
