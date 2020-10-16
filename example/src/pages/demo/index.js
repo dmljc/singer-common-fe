@@ -298,10 +298,7 @@ export default () => {
             // options={false}  // 右侧tools
             columns={columns}
             rowSelection={{}}
-            tableAlertRender={({
-                selectedRowKeys,
-                onCleanSelected
-            }) => (
+            tableAlertRender={({ selectedRowKeys, onCleanSelected }) => (
                 <span>
                     已选 {selectedRowKeys.length} 项
                     <a className='pl10' onClick={onCleanSelected}>
